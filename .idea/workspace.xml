@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab1b2768-4694-4ef8-b3bd-5ea4f558ab05" name="Changes" comment="Desafio 04 concluido - estatísticas com, média ,máximo e mínimo">
-      <change afterPath="$PROJECT_DIR$/desafio 05.py" afterDir="false" />
+    <list default="true" id="ab1b2768-4694-4ef8-b3bd-5ea4f558ab05" name="Changes" comment="Desafio 05 concluido - relatório visual com barra de progresso.">
+      <change afterPath="$PROJECT_DIR$/desafio 06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -195,7 +195,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782010442578</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Desafio 05 concluido - relatório visual com barra de progresso.">
+      <option name="closed" value="true" />
+      <created>1782014147773</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1782014147773</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -206,6 +214,7 @@
     <MESSAGE value="Desafio 02 concluido - dicionários e data" />
     <MESSAGE value="Desafio 03 concluido - salvando e carregando dados em JSON" />
     <MESSAGE value="Desafio 04 concluido - estatísticas com, média ,máximo e mínimo" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio 04 concluido - estatísticas com, média ,máximo e mínimo" />
+    <MESSAGE value="Desafio 05 concluido - relatório visual com barra de progresso." />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 05 concluido - relatório visual com barra de progresso." />
   </component>
 </project>
