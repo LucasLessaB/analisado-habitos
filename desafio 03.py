@@ -65,7 +65,7 @@ while True:
         print(registros)
         print('Até logo!')
         break
-
+ 
     else:
         print('Opção invalida!')
     print()
