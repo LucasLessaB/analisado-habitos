@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ab1b2768-4694-4ef8-b3bd-5ea4f558ab05" name="Changes" comment="Desafio 03 concluido - salvando e carregando dados em JSON">
-      <change afterPath="$PROJECT_DIR$/desafio 04.py" afterDir="false" />
+    <list default="true" id="ab1b2768-4694-4ef8-b3bd-5ea4f558ab05" name="Changes" comment="Desafio 04 concluido - estatísticas com, média ,máximo e mínimo">
+      <change afterPath="$PROJECT_DIR$/desafio 05.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -50,6 +50,7 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "Python.desafio 02.executor": "Run",
     "Python.desafio 03.executor": "Run",
+    "Python.desafio 04.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -186,7 +187,15 @@
       <option name="project" value="LOCAL" />
       <updated>1782007834190</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Desafio 04 concluido - estatísticas com, média ,máximo e mínimo">
+      <option name="closed" value="true" />
+      <created>1782010442578</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1782010442578</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -196,6 +205,7 @@
     <MESSAGE value="Desafio 1 concluido - menu de coleta de dados" />
     <MESSAGE value="Desafio 02 concluido - dicionários e data" />
     <MESSAGE value="Desafio 03 concluido - salvando e carregando dados em JSON" />
-    <option name="LAST_COMMIT_MESSAGE" value="Desafio 03 concluido - salvando e carregando dados em JSON" />
+    <MESSAGE value="Desafio 04 concluido - estatísticas com, média ,máximo e mínimo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Desafio 04 concluido - estatísticas com, média ,máximo e mínimo" />
   </component>
 </project>
